@@ -1,3 +1,7 @@
+# Too big to sync
+
+evaluations500.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
